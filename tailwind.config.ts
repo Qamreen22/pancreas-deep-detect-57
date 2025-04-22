@@ -61,6 +61,13 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				medical: {
+					blue: '#1A73E8',
+					lightblue: '#4285F4',
+					purple: '#8E24AA',
+					red: '#EA4335',
+					yellow: '#FBBC05'
 				}
 			},
 			borderRadius: {
